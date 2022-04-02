@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/example-react-browser-router-on-github-pages/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/example-react-browser-router-on-github-pages/static/js/main.e5e1b17b.chunk.js",
+    "main.js.map": "/example-react-browser-router-on-github-pages/static/js/main.e5e1b17b.chunk.js.map",
+    "runtime-main.js": "/example-react-browser-router-on-github-pages/static/js/runtime-main.dcbea512.js",
+    "runtime-main.js.map": "/example-react-browser-router-on-github-pages/static/js/runtime-main.dcbea512.js.map",
+    "static/js/2.b424496b.chunk.js": "/example-react-browser-router-on-github-pages/static/js/2.b424496b.chunk.js",
+    "static/js/2.b424496b.chunk.js.map": "/example-react-browser-router-on-github-pages/static/js/2.b424496b.chunk.js.map",
+    "index.html": "/example-react-browser-router-on-github-pages/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/example-react-browser-router-on-github-pages/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b424496b.chunk.js.LICENSE.txt": "/example-react-browser-router-on-github-pages/static/js/2.b424496b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcbea512.js",
+    "static/js/2.b424496b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.e5e1b17b.chunk.js"
+  ]
+}
